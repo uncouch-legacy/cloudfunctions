@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/uncounch/cloudfunctions/common/rest"
+	"github.com/uncouch/cloudfunctions/common/rest"
 
 	"cloud.google.com/go/firestore"
 	"cloud.google.com/go/logging"

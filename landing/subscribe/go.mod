@@ -1,4 +1,4 @@
-module github.com/uncounch/cloudfunctions/landing/subscribe
+module github.com/uncouch/cloudfunctions/landing/subscribe
 
 require (
 	cloud.google.com/go v0.36.0
